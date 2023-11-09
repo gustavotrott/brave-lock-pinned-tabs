@@ -1,0 +1,19 @@
+{
+  "name": "Lock Pinned Tabs",
+  "description": "Prevents pinned a tab from being closed accidentally",
+  "version": "1.0.0",
+
+  "author": "gustavotrott",
+  "homepage_url": "https://github.com/gustavotrott/chrome-lock-tab",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab"
+  ],
+  "icons": {
+    "128": "images/icon_128.png"
+  },
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "action": {}
+}
