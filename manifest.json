@@ -4,7 +4,7 @@
   "version": "1.0.0",
 
   "author": "gustavotrott",
-  "homepage_url": "https://github.com/gustavotrott/chrome-lock-tab",
+  "homepage_url": "https://github.com/gustavotrott/brave-lock-pinned-tabs",
   "manifest_version": 3,
   "permissions": [
     "activeTab"
